@@ -1,0 +1,1 @@
+veri madenciliği kmeans algoritması ödevi
